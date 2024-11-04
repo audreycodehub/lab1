@@ -1,2 +1,70 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Audrey Harmon</title>
+</head>
+<body>
+    
+    <header>
+    <h1>Audrey Harmon</h1>
+    <p> Email: audreyharmon1234@gmail.com</p>
+    </header>
+    
+    <section id="About_Me">
+    <h2>About Me</h2>
+   <p> I am from Sammamish, Washington and go to school at Bellevue college. I have lived in Washington my whole life and I enjoy movies, video games, and reading.I have experience in retail, food service, outdoor hands-on work,and caregiving.</p>
+    </section>
+    
+    <section id="Education">
+    <h2>Education</h2>
+    <p>Diploma from Skyline High School (2018-2022)</p>
+    <p>Continuing Education at Bellevue College (2022-current)</p>
+    </section>
+    
+    <section id="Employment_History"> 
+    <h2>Employment History</h2>
+    <p><strong>Sales Representative at Sherwin Williams</strong> </p>
+    <ul> 
+        <li> Learned customer satisfaction strategies</li>
+    <li> Developed Team Collaboration Skills</li>
+    </ul>
+    <p><strong>Sammamish Plateau Water Operator</strong></p>
+    <ul> 
+        <li> Assisted in Hydrant and Meter hands-on work</li>
+        <li>Developed equipment handling skills</li>
+    </ul>
+    </section>
+    
+    <section id="Career_Goals">
+    <h2>Career Goals</h2>
+    <p> My goals include leveraging my skills of relationship building and team collaboration, as well as continuing my education for a career in digital marketing.</p>
+    </section>
+    
+    <section id="Interests">
+    <h2>Interests</h2>
+    <ul>
+        <li>Reading(True Crime, Historical Literature)</li>
+        <li>Movies(Horror, 2000s Comedy)</li>
+        <li>Video Games (COD, Destiny)</li>
+    </ul>
+    </section>
+    
+    <section id="Favorite_Websites">
+    <h2>Favorite Websites</h2>
+    <ul>
+        <li><a href="https://www.netflix.com" target="_blank">Netflix</a></li>
+        <li><a href="https://www.hulu.com" target="_blank">Hulu</a></li>
+        <li><a href="https://www.max.com" target="_blank">Max</a></li>
+        </ul>
+    </section>
+    
+    <footer>
+    <h2>Contact Information</h2>
+   <p> For hiring inquiries, reach out to me at 000-111-444.</p>
+    </footer>
+    
+    
+</body>
+</html>
+    
